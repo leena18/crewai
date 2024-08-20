@@ -1,0 +1,7 @@
+In this video, @krishnaik06 continues the Langchain series by focusing on creating APIs for production-grade deployment. By utilizing Lang serve in Langchain and fast API, along with Swagger UI by Langin, viewers are guided on efficiently creating APIs for deployment, emphasizing the importance of this step for any application deployment.
+
+The channel also offers end-to-end projects, ML Ops tutorials covering Docker, ML Flow, AI monitoring, GitHub actions, and upcoming tutorials on Kubernetes and Kubeflow. Additionally, there are comprehensive machine learning and deep learning playlists, catering to English and Hindi-speaking candidates, providing tutorials for interviews and real-world projects.
+
+Generative AI, open AI, Pi spark tutorials, and a range of data science, machine learning, and deep learning interview questions are covered, focusing on real-world use cases and practical applications in IT companies. Viewers are advised to select online courses that offer deployment strategies and real-world project experience.
+
+Future videos will guide viewers on transforming Kaggle problem statements into real-world projects, showcasing skills for deployment on platforms like Heroku. The importance of studying data science and machine learning is emphasized, as companies are increasingly leveraging data for business transformation, predicting a growth in analytics departments in the future. Learning these technologies is essential for staying relevant in the rapidly evolving field of IT.
